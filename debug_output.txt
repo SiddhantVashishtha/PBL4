@@ -1,0 +1,5 @@
+Python executable: C:\Users\siddh\AppData\Local\Programs\Python\Python310\python.exe
+Mediapipe file: C:\Users\siddh\AppData\Local\Programs\Python\Python310\lib\site-packages\mediapipe\__init__.py
+Mediapipe path: ['C:\\Users\\siddh\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\mediapipe']
+Dir(mp): ['Image', 'ImageFormat', '__builtins__', '__cached__', '__doc__', '__file__', '__loader__', '__name__', '__package__', '__path__', '__spec__', '__version__', 'tasks']
+Error accessing mp.solutions: module 'mediapipe' has no attribute 'solutions'

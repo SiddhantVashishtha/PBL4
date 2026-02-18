@@ -1,0 +1,5 @@
+import mediapipe successful
+from mediapipe.python import solutions successful
+solutions.hands: <module 'mediapipe.python.solutions.hands' from 'C:\\Users\\siddh\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\mediapipe\\python\\solutions\\hands.py'>
+import mediapipe.python successful
+dir(mp_python): ['CalculatorGraph', 'GraphInputStreamAddMode', 'Image', 'ImageFormat', 'ImageFrame', 'Matrix', 'Packet', 'Timestamp', 'ValidatedGraphConfig', '__builtins__', '__cached__', '__doc__', '__file__', '__loader__', '__name__', '__package__', '__path__', '__spec__', '_framework_bindings', 'mediapipe', 'packet_creator', 'packet_getter', 'resource_util', 'solution_base', 'solutions']
